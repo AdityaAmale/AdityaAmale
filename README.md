@@ -21,7 +21,7 @@ I'm a student and aspiring **Data Analyst** from India.
 - LinkedIn: https://www.linkedin.com/in/aditya-amale-303376314/  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaAmale&show_icons=true)
+[![GitHub Stats](https://github.com/AdityaAmale)
 
 ---
 
