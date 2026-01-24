@@ -20,8 +20,6 @@ I'm a student and aspiring **Data Analyst** from India.
 - GitHub: https://github.com/AdityaAmale  
 - LinkedIn: https://www.linkedin.com/in/aditya-amale-303376314/  
 
-## 📊 GitHub Stats
-[![GitHub Stats](https://github.com/AdityaAmale)
 
 ---
 
