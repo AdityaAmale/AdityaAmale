@@ -23,4 +23,4 @@ I'm a student and aspiring **Data Analyst** from India.
 
 ---
 
-Thank you for visiting my profile 🙂
+Thank you for visiting my profile 😊
