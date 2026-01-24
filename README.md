@@ -8,7 +8,7 @@ I'm a student and aspiring **Data Analyst** from India.
 - 💻 Interested in **Power BI, SQL, and Python**  
 - 📫 Email: **adityaamale50@gmail.com**
 
-## 🛠 Data Analysis Skills
+## 🛠 Data Analytics Skills
 - **Programming:** Python  
 - **Data Analysis:** Pandas, NumPy  
 - **Data Visualization:** Power BI, Matplotlib, Seaborn  
