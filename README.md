@@ -5,7 +5,7 @@ I'm a student and aspiring **Data Analyst** from India.
 ## 👨‍💻 About Me
 - 🌍 Based in India  
 - 🌱 Currently learning **Data Analysis**  
-- 💻 Interested in **Power BI, SQL, and Python**  
+- 💻 Interested in **Power BI, SQL , Excel , and Python**  
 - 📫 Email: **adityaamale50@gmail.com**
 
 ## 🛠 Data Analytics Skills
