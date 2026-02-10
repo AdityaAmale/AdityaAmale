@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aditya Amale
 
-I'm a student and aspiring **Data Analyst** from India.
+I'm a Student and Aspiring **Data Analyst** from India.
 
 ## 👨‍💻 About Me
 - 🌍 Based in India  
