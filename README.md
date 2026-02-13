@@ -1,70 +1,61 @@
-Hi 👋, I'm Aditya Amale
+## **Hi 👋, I'm Aditya Amale**
 
-Aspiring Data Analyst | SQL & Python Enthusiast | Power BI Developer | Turning Data into Insights
+**Aspiring Data Analyst | SQL & Python Enthusiast | Power BI Developer | Turning Data into Insights**
 
-I'm a Computer Engineering student and an aspiring Data Analyst from India, passionate about extracting insights from data and building impactful dashboards.
+I'm a **Computer Engineering student** and an aspiring **Data Analyst** from **India**, passionate about extracting insights from data and building impactful dashboards.
 
-👨‍💻 About Me
+---
 
-🌍 Based in India
+## **👨‍💻 About Me**
+- 🌍 **Based in India**
+- 🌱 **Currently learning Data Analysis & Business Intelligence**
+- 💻 **Interested in Power BI, SQL, Excel, and Python**
+- 🎯 **Career Goal:** To secure a **Data Analyst** role and solve real-world business problems using data
+- 📫 **Email:** **adityaamale50@gmail.com**
 
-🌱 Currently learning Data Analysis & Business Intelligence
+---
 
-💻 Interested in Power BI, SQL, Excel, and Python
+## **🛠 Data Analytics Skills**
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Databases:** SQL, MySQL
+- **Tools:** Excel, Power Query, Git, GitHub
+- **Concepts:** Statistics Basics, Data Cleaning, Data Transformation
 
-🎯 Career Goal: To secure a Data Analyst role and solve real-world business problems using data
+---
 
-📫 Email: adityaamale50@gmail.com
+## **🚀 Featured Projects**
 
-🛠 Data Analytics Skills
+### **📈 Ola Ride Data Analysis**
+- **Analyzed** ride booking and cancellation data using **SQL & Python**
+- **Identified** demand trends, peak hours, and cancellation patterns
+- **Built** interactive **Power BI dashboards** to track KPIs
 
-Programming: Python
+### **📱 Mobile Sales Dashboard (Power BI)**
+- **Cleaned & transformed** sales data using **Power Query**
+- **Created** interactive dashboards to analyze revenue, brand performance, and trends
+- **Used** **DAX** for KPI calculations
 
-Data Analysis: Pandas, NumPy
+---
 
-Data Visualization: Power BI, Matplotlib, Seaborn
+## **📚 Currently Learning**
+- **Advanced SQL** (Joins, Subqueries, Window Functions)
+- **DAX & Advanced Power BI**
+- **Data Structures & Algorithms**
 
-Databases: SQL, MySQL
+---
 
-Tools: Excel, Power Query, Git, GitHub
+## **💡 Problem Solving**
+- **Solving SQL & Python problems on LeetCode**
+- **Focused on Easy & Medium level questions**
 
-Concepts: Statistics Basics, Data Cleaning, Data Transformation
+---
 
-🚀 Featured Projects
-📈 Ola Ride Data Analysis
+## **🌐 Social Links**
+- **LinkedIn:** https://www.linkedin.com/in/aditya-amale-303376314/
+- **GitHub:** https://github.com/AdityaAmale
 
-Analyzed ride booking and cancellation data using SQL & Python
+---
 
-Identified demand trends, peak hours, and cancellation patterns
-
-Built interactive Power BI dashboards to track KPIs
-
-📱 Mobile Sales Dashboard (Power BI)
-
-Cleaned & transformed sales data using Power Query
-
-Created interactive dashboards to analyze revenue, brand performance, and trends
-
-Used DAX for KPI calculations
-
-📚 Currently Learning
-
-Advanced SQL (Joins, Subqueries, Window Functions)
-
-DAX & Advanced Power BI
-
-Data Structures & Algorithms
-
-💡 Problem Solving
-
-Solving SQL & Python problems on LeetCode
-
-Focused on Easy & Medium level questions
-
-🌐 Social Links
-
-LinkedIn: https://www.linkedin.com/in/aditya-amale-303376314/
-
-GitHub: https://github.com/AdityaAmale
-
-✨ Thank you for visiting my profile!
+✨ **Thank you for visiting my profile!**
