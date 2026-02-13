@@ -1,4 +1,5 @@
 # Hi 👋, I'm Aditya Amale
+Aspiring Data Analyst | SQL & Python Enthusiast | Power BI Developer | Turning Data into Insights
 
 I'm a Student and Aspiring **Data Analyst** from India.
 
@@ -18,7 +19,7 @@ I'm a Student and Aspiring **Data Analyst** from India.
 
 ## 🌐 Social Links
 - LinkedIn: https://www.linkedin.com/in/aditya-amale-303376314/  
-
+- GitHub: https://github.com/AdityaAmale
 
 ---
 
