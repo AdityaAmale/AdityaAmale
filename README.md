@@ -57,5 +57,10 @@ I'm a **Computer Engineering student** and an aspiring **Data Analyst** from **I
 - **GitHub:** https://github.com/AdityaAmale
 
 ---
+## Certifications
+- SQL (Basic) – HackerRank
+- SQL (Intermediate) – HackerRank
+
+---
 
 ✨ **Thank you for visiting my profile!**
