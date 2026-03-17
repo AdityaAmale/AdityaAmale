@@ -1,10 +1,10 @@
-<h1 align="center">
+<h1>
   Hi <img src="https://github.com/your-uploaded-file-link.gif" width="35px">, I'm Aditya Amale
 </h1>
 
-<h3 align="center">Aspiring Data Analyst | SQL & Python Enthusiast | Power BI Developer</h3>
+<h3>Aspiring Data Analyst | SQL & Python Enthusiast | Power BI Developer</h3>
 
-<p align="center">
+<p>
   Turning Data into Insights 📊
 </p>
 
@@ -81,15 +81,6 @@
 
 - SQL (Basic) – HackerRank  
 - SQL (Intermediate) – HackerRank  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaAmale&show_icons=true&theme=dark" />
-<img src="https://streak-stats.demolab.com/?user=AdityaAmale&theme=dark" />
-</p>
 
 ---
 
