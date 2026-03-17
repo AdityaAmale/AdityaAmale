@@ -1,5 +1,5 @@
 <h1>
-  Hi <img src="https://github.com/your-uploaded-file-link.gif" width="35px">, I'm Aditya Amale
+  Hi <img src="https://github.com/AdityaAmale/AdityaAmale/blob/main/Hand.gif" width="35px">, I'm Aditya Amale
 </h1>
 
 <h3>Aspiring Data Analyst | SQL & Python Enthusiast | Power BI Developer</h3>
