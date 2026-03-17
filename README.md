@@ -49,21 +49,6 @@
 
 ---
 
-## 📚 I'm currently learning
-
-- Advanced SQL (Joins, Subqueries, Window Functions)  
-- DAX & Advanced Power BI  
-- Data Structures & Algorithms  
-
----
-
-## 💡 Problem Solving
-
-- Solving SQL & Python problems on LeetCode  
-- Focused on Easy & Medium level questions  
-
----
-
 ## 🌐 Socials
 
 <p align="left">
@@ -74,13 +59,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
-
----
-
-## 🏆 Certifications
-
-- SQL (Basic) – HackerRank  
-- SQL (Intermediate) – HackerRank  
 
 ---
 
