@@ -49,17 +49,4 @@
 
 ---
 
-## 🌐 Socials
-
-<p align="left">
-<a href="https://github.com/AdityaAmale" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="https://www.linkedin.com/in/aditya-amale-303376314/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
-
----
-
 ✨ Thank you for visiting my profile!
