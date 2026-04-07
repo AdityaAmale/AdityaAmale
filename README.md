@@ -16,7 +16,6 @@
 - 🎓 I'm a Computer Engineering student  
 - 💻 I'm interested in Power BI, SQL, Excel, and Python  
 - 🌱 I'm currently learning Data Analysis & Business Intelligence  
-- 🎯 My goal is to become a Data Analyst and solve real-world problems using data  
 - 📧 You can contact me at **adityaamale50@gmail.com**  
 
 ---
