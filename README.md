@@ -2,7 +2,7 @@
   Hi <img src="https://github.com/AdityaAmale/AdityaAmale/blob/main/Hand.gif" width="45px">, I'm Aditya Amale
 </h1>
 
-<h3>Aspiring Data Analyst | SQL & Python Enthusiast | Power BI Developer</h3>
+<h3>Data Analyst | SQL & Python Enthusiast | Power BI Developer</h3>
 
 <p>
   Turning Data into Insights 📊
