@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🌍 I'm based in India  
-- 🎓 I'm a Computer Engineering student  
+- 🎓 I'm a Computer Engineer
 - 💻 I'm interested in Power BI, SQL, Excel, and Python  
 - 🌱 I'm currently learning Data Analysis & Business Intelligence  
 - 📧 You can contact me at **adityaamale50@gmail.com**  
