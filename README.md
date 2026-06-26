@@ -43,28 +43,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AdityaAmale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" />
 
 </td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAmale&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
 </tr>
 </table>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-amale-303376314" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:adityaamale50@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
