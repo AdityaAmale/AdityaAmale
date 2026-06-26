@@ -34,18 +34,4 @@
 
 ---
 
-## 🚀 Projects
-
-- 📈 **Ola Ride Data Analysis**  
-  → Analyzed ride booking & cancellation data using SQL & Python  
-  → Identified demand trends, peak hours, and cancellation patterns  
-  → Built interactive Power BI dashboards  
-
-- 📱 **Mobile Sales Dashboard (Power BI)**  
-  → Cleaned & transformed data using Power Query  
-  → Created dashboards for revenue & brand performance  
-  → Used DAX for KPI calculations  
-
----
-
 ✨ Thank you for visiting my profile!
